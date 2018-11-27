@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:4200",
+            "webRoot": "${workspaceFolder}"
+        }
+//         To create this file:
+//         To the right of that dropdown, there is a gear icon. Click this button to have VS Code automatically generate that .vscode folder and launch.json file mentioned above
+//         Then choose Chrome.
+//         Change the port to 4200
+    ]
+}
